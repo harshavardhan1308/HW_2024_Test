@@ -1,0 +1,23 @@
+# Unity
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.swp
+*.sln
+*.suo
+*.tmp
+*.bak
+*.ncb
+*.ds_store
+*.log
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Assets/StreamingAssets/
